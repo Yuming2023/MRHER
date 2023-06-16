@@ -2,6 +2,9 @@
 Code for Robust Model-based Hindisight Experience Replay (RoMo-HER) is updating. RoMo-HER is a reinforcement learning framework that aims to effectively utilize a model-based goal relabeling technique to improve sample efficiency in robot manipulation environments.
 
 <div style="text-align: center;">
+<img src="pics/arc.png"  >
+</div>
+<div style="text-align: center;">
 <img src="pics/FR.png"  >
 </div>
 
